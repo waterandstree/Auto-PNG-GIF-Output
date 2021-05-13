@@ -1,0 +1,2 @@
+注：
+如果是专业版的话，报DllNotFoundException: NatCorder错误，重新导入NatCorder
